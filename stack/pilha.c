@@ -111,3 +111,5 @@ int main() {
     
     return 0;
 }
+
+// Testado e aprovado por Raí
