@@ -5,6 +5,8 @@
 #define MAX_SIZE 100
 #define MAX_STRING 256
 
+// Testado e aprovado por Rafael Do Nascimento Silva "rafadonas"
+
 // Estrutura da pilha para operações de desfazer
 typedef struct {
     char operacoes[MAX_SIZE][MAX_STRING];
